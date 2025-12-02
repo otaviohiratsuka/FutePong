@@ -34,8 +34,8 @@ O jogo é para **dois jogadores locais**.
 ### Controles
 
 * **Jogador 1 (Esquerda):**
-    * **Cima:** `[Tecla Z]`
-    * **Baixo:** `[Tecla X]`
+    * **Cima:** `[Tecla W]`
+    * **Baixo:** `[Tecla S]`
 
 * **Jogador 2 (Direita):**
     * **Cima:** `[Tecla Seta para Cima]`
