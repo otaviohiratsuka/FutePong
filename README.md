@@ -50,7 +50,7 @@ Para jogar o FutePong, você precisa ter o [TIC-80](https://tic80.com/) instalad
 1.  Abra o console do TIC-80.
 2.  Carregue o cartucho do jogo. Se o arquivo se chamar `futepong.tic`, digite:
     ```
-    load futepong.tic
+    load fut.tic
     ```
 3.  Após o jogo ser carregado, digite `run` para iniciar:
     ```
