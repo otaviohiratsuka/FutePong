@@ -19,11 +19,14 @@ Este projeto foi desenvolvido como trabalho final para a disciplina de **Linguag
 
 ## ✨ Funcionalidades Principais
 
+Aqui está a lista atualizada **já incluindo o power-up de inverter os controles**, no mesmo estilo dos outros:
+
 O jogo traz a jogabilidade clássica do Pong com a adição de *power-ups* dinâmicos para tornar as partidas mais emocionantes:
 
 * ⚡ **Acelerar a Bola:** Aumenta a velocidade da bola temporariamente.
 * 🥅 **Aumentar o Gol:** Expande o tamanho do gol do jogador que ativou o power-up (ou do adversário, você decide!).
 * 🤯 **Multiplicar Bolas:** Adiciona mais bolas ao campo, aumentando o caos e a diversão.
+* 🔄 **Inverter Controles:** Troca a direção dos comandos de ambos jogadores por alguns segundos, confundindo seu movimento e criando oportunidade para marcar.
 
 ---
 
