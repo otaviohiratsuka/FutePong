@@ -76,7 +76,7 @@ Para jogar o FutePong, você precisa ter o [TIC-80](https://tic80.com/) instalad
   [![Instagram][instagram-badge]][instagram-autor1]
 
   <br><br>
-     <i>Fabrício Quintilhiano - Undergraduate - 4th Semester, Computer Engineering @ CEFET-MG</i>
+     <i>Fabrício Quintilhiano Braga - Undergraduate - 4th Semester, Computer Engineering @ CEFET-MG</i>
   <br><br>
   
   [![Gmail][gmail-badge]][gmail-autor3]
